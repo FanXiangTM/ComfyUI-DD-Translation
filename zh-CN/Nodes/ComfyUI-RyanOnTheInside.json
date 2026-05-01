@@ -3848,7 +3848,7 @@
         }
     },
     "ACEStep15TaskTextEncode": {
-        "title": "ACE-Step 1.5 Task Text Encode ⚡🅡🅞🅣🅘",
+        "title": "任务文本编码（ACE-Step 1.5 ）⚡🅡🅞🅣🅘",
         "widgets": {
             "duration": "时长",
             "bpm": "每分钟节拍数",
@@ -3869,7 +3869,7 @@
         }
     },
     "ModelSamplingACEStep": {
-        "title": "ACE-Step Model Sampling ⚡🅡🅞🅣🅘",
+        "title": "模型采样（ACE-Step）⚡🅡🅞🅣🅘",
         "inputs": {
             "model": "模型"
         },
@@ -3878,7 +3878,7 @@
         }
     },
     "ACEStep15NativeCoverGuider": {
-        "title": "ACE-Step 1.5 Cover Guider ⚡🅡🅞🅣🅘",
+        "title": "翻唱引导器 ACE-Step 1.5 ⚡🅡🅞🅣🅘",
         "inputs": {
             "model": "模型",
             "positive": "正向提示词",
@@ -3889,7 +3889,7 @@
         }
     },
     "ACEStep15NativeEditGuider": {
-        "title": "ACE-Step 1.5 Edit Guider (Extend/Repaint) ⚡🅡🅞🅣🅘",
+        "title": "编辑引导器 ACE-Step 1.5（扩充/重绘） ⚡🅡🅞🅣🅘",
         "inputs": {
             "model": "模型",
             "positive": "正向提示词",
@@ -3910,14 +3910,14 @@
         }
     },
     "PreviewAudioCompare": {
-        "title": "Preview Audio Compare ⚡🅡🅞🅣🅘",
+        "title": "音频对比预览 ⚡🅡🅞🅣🅘",
         "inputs": {
             "audio_a": "音频A",
             "audio_b": "音频B"
         }
     },
     "AdvancedFeatureCombiner": {
-        "title": "Advanced Feature Combiner ⚡🅡🅞🅣🅘",
+        "title": "高级特征组合器 ⚡🅡🅞🅣🅘",
         "inputs": {
             "audio": "音频",
             "feature_1": "特征1",
@@ -3936,7 +3936,7 @@
         }
     },
     "InstantFloatPreview": {
-        "title": "Instant Float Preview ⚡🅡🅞🅣🅘",
+        "title": "实时浮点预览 ⚡🅡🅞🅣🅘",
         "inputs": {
             "float_1": "参数_1",
             "float_2": "参数_2",
@@ -3958,7 +3958,7 @@
         }
     },
     "AudioTemporalMask15": {
-        "title": "Audio Temporal Mask (ACE 1.5) ⚡🅡🅞🅣🅘",
+        "title": "音频时域掩码 (ACE 1.5) ⚡🅡🅞🅣🅘",
         "inputs": {
             "audio_latents": "音频潜空间数据"
         },
@@ -3967,7 +3967,7 @@
         }
     },
     "AnimatedFloatPreview": {
-        "title": "Animated Float Preview ⚡🅡🅞🅣🅘",
+        "title": "动画数值预览 ⚡🅡🅞🅣🅘",
         "inputs": {
             "audio": "音频",
             "float_1": "参数_1",
