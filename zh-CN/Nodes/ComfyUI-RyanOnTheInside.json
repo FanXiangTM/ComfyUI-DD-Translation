@@ -3860,7 +3860,9 @@
             "min_p": "最小概率阈值",
             "seed": "种子",
             "language": "语言",
-            "temperature": "温度"
+            "temperature": "温度",
+            "task_type": "任务类型",
+            "track_name": "乐器类别"
         },
         "outputs": {
             "conditioning": "条件引导"
